@@ -20,7 +20,7 @@
     margin-right: 1rem;
     float: left;
   }
-  .languagetools_left i{
+  .languagetools i{
     margin-left: 5rem;
     display: flex;
     float: left;
@@ -28,19 +28,7 @@
     letter-spacing: 0.1rem;
     text-align: left;
   }
-  .languagetools_left i:hover{
-    color: rgb(188, 31, 202);
-    transform: scale(1.1);
-  }
-.languagetools_right i{
-    margin-left: 5rem;
-    display: flex;
-    float: right;
-    margin-bottom: 0.5rem;
-    letter-spacing: 0.1rem;
-    text-align: left;
-  }
-  .languagetools_right i:hover{
+  .languagetools i:hover{
     color: rgb(188, 31, 202);
     transform: scale(1.1);
   }
