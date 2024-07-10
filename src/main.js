@@ -15,8 +15,6 @@ import '../styles/components/certificates.css';
 import '../styles/components/Achievements.css';
 
 import mobileNav from './utils/mobile-nav';
-import darkMode from './utils/dark-mode';
 
 mobileNav();
-darkMode();
 lazyLoading();
